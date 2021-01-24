@@ -1,2 +1,2 @@
 ![developmentstephanwithph](https://user-images.githubusercontent.com/20800277/87719598-e4cdfe00-c7b3-11ea-80d8-7427b86f9603.png)
-<p><img align="center" style="width:100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Mindgamesnl&theme=dark" alt="justinnndev" /></p>
+<p><img align="center" style="min-width:100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Mindgamesnl&theme=dark" alt="justinnndev" /></p>
